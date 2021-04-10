@@ -1,0 +1,1 @@
+var typed=new Typed('.typed',{strings:['<i class="textos">Mi nombre es pedro montes de oca</i>','<i class="textos">soy ingeniero en sistemas computacionales.</i>',],stringsElement:'#cadenas-texto',typeSpeed:75,startDelay:400,backSpeed:75,smartBackspace:true,shuffle:false,backDelay:1500,loop:true,loopCount:false,showCursor:true,cursorChar:'|',contentType:'html',});
